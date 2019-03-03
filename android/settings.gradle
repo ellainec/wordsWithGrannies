@@ -1,0 +1,3 @@
+rootProject.name = 'wordsWithGrannies'
+
+include ':app'
